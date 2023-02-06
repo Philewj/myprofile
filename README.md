@@ -1,4 +1,4 @@
-# profile
+# My Profile
 
 Welcome!
 
